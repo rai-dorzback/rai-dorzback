@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">👋 Hi, I’m Raisa!</h1>
 
-<p align="center"> <a href="https://twitter.com/rai__bread" target="blank"><img src="https://img.shields.io/twitter/follow/rai__bread?logo=twitter&style=for-the-badge" alt="dwnorm2" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rai__bread" target="_blank"><img src="https://img.shields.io/twitter/follow/rai__bread?logo=twitter&style=for-the-badge" alt="dwnorm2" /></a> </p>
 
 - 🧠 I’m currently learning JavaScript and full stack web development!
 - 🌱 [My passion project](https://github.com/raisa-d/the-100-rpg/) is a Python text-based role player game set in the apocalyptic world of the CW's "The 100."
