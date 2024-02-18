@@ -7,7 +7,8 @@
 
 <p align="center"> <a href="https://twitter.com/rai__bread" target="_blank"><img src="https://img.shields.io/twitter/follow/rai__bread?logo=twitter&style=for-the-badge" alt="dwnorm2" /></a> </p>
 
-- 🧠 I’m currently learning JavaScript and full stack web development!
+- 🧠 I’m currently learning the MERN stack!
+- 📖 Right now, I'm working on [Blackout Poetry Studio](https://blackout-poetry.netlify.app/), a tool to help you build Blackout Poetry and to inspire you! It uses the [poetryDB API](https://poetrydb.org/index.html)
 - 🌱 [My passion project](https://github.com/raisa-d/the-100-rpg/) is a Python text-based role player game set in the apocalyptic world of the CW's "The 100."
 - 👀 I’m interested in Trigedasleng, mermaids, reading, and going on walks :)
 - 📫 You can reach me on [twitter](https://twitter.com/rai__bread) or [twitch](https://www.twitch.tv/rai__bread) at @rai__bread
