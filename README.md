@@ -1,5 +1,7 @@
 <p align="center">
+  <a target="_blank" href="https://raisadorzback.netlify.app/">
   <img height="200" alt="Raisa Dorzback Software Engineer Logo with Mermaid" src="https://raisadorzback.netlify.app/images/logo/logo-white-transparent.png">  
+  </a>
 </p>
 <h1 align="center">👋 Hi, I’m Raisa!</h1>
 
