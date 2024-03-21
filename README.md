@@ -9,7 +9,7 @@
 
 - 🧠 I’m currently learning the MERN stack!
 - 📖 Right now, I'm working on [Blackout Poetry Studio](https://blackout-poetry.netlify.app/), a tool to help you build Blackout Poetry and to inspire you! It uses the [poetryDB API](https://poetrydb.org/index.html)
-- 🌱 [My passion project](https://github.com/raisa-d/the-100-rpg/) is a Python text-based role player game set in the apocalyptic world of the CW's "The 100."
+- 🌱 My passion project is a [Python text-based role player game](https://github.com/raisa-d/the-100-rpg/) set in the apocalyptic world of the CW's "The 100."
 - 👀 I’m interested in crafting, reading, going on walks, learning Trigedasleng (the conlang from the 100) :)
 - 📫 You can reach me on [twitter](https://twitter.com/rai__bread) or [twitch](https://www.twitch.tv/rai__bread) at @rai__bread
 - 👨‍💻 [My website](https://raisadorzback.netlify.app/)
