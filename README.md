@@ -5,10 +5,10 @@
 </p>
 <h1 align="center">👋 Hi, I’m Raisa!</h1>
 
-<p align="center"> <a href="https://twitter.com/rai__bread" target="_blank"><img src="https://img.shields.io/twitter/follow/rai__bread?logo=twitter&style=for-the-badge" alt="dwnorm2" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rai__bread" target="_blank"><img src="https://img.shields.io/twitter/follow/rai__bread?logo=twitter&style=for-the-badge" alt="raisa-d" /></a> </p>
 
 - 🧠 I’m currently learning the MERN stack!
-- 📖 Right now, I'm working on [Blackout Poetry Studio](https://blackout-poetry.netlify.app/), a tool to help you build Blackout Poetry and to inspire you! It uses the [poetryDB API](https://poetrydb.org/index.html)
+- 📖 Right now, I'm working on [Spellweaver](https://github.com/raisa-d/Spellweaver), a web app for organizing and managing Dungeons & Dragons spells! It is integrated with the [D&D 5e API](https://www.dnd5eapi.co/)
 - 🌱 My passion project is a [Python text-based role player game](https://github.com/raisa-d/the-100-rpg/) set in the apocalyptic world of the CW's "The 100."
 - 👀 I’m interested in crafting, reading, going on walks, learning Trigedasleng (the conlang from the 100) :)
 - 📫 You can reach me on [twitter](https://twitter.com/rai__bread) or [twitch](https://www.twitch.tv/rai__bread) at @rai__bread
