@@ -10,7 +10,7 @@
 - 🧠 I’m currently learning the MERN stack!
 - 📖 Right now, I'm working on [Spellweaver](https://github.com/raisa-d/Spellweaver), a web app for organizing and managing Dungeons & Dragons spells! It is integrated with the [D&D 5e API](https://www.dnd5eapi.co/)
 - 🌱 My passion project is a [Python text-based role player game](https://github.com/raisa-d/the-100-rpg/) set in the apocalyptic world of the CW's "The 100."
-- 👀 I’m interested in crafting, reading, going on walks, learning Trigedasleng (the conlang from the 100) :)
+- 👀 I’m interested in crafting, reading, going on walks, learning [Trigedasleng](https://dedalvs.com/work/the-100/trigedasleng_v5.pdf) (the conlang from the 100) :)
 - 📫 You can reach me on [twitter](https://twitter.com/rai__bread) or [twitch](https://www.twitch.tv/rai__bread) at @rai__bread
 - 👨‍💻 [My website](https://raisadorzback.netlify.app/)
 - 😄 Pronouns: she/they
