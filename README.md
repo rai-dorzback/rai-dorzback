@@ -17,15 +17,16 @@
   </a> 
 </p>
 
-- 🧠 I’m currently learning the MERN stack!
+- 🧚‍♂️ I’m currently learning the MERN stack!
+- 🧠 My background is in Biopsychology, Cognition, and Neuroscience research!
 - 📖 Right now, I'm working on [Spellweaver](https://github.com/raisa-d/Spellweaver), a web app for organizing and managing Dungeons & Dragons spells! It is integrated with the [D&D 5e API](https://www.dnd5eapi.co/)
 - 🌱 My passion project is a [Python text-based role player game](https://github.com/raisa-d/the-100-rpg/) set in the apocalyptic world of the CW's "The 100."
 - 👀 I’m interested in crafting, reading, going on walks, learning [Trigedasleng](https://dedalvs.com/work/the-100/trigedasleng_v5.pdf) (the conlang from "The 100").
 - 😄 Pronouns: she/they
 - 🐱 Fun fact: I have the cutest cat in the world :)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
