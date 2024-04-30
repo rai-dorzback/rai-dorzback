@@ -69,12 +69,15 @@
     <td width="50%" valign="top">
       <h3 align="center">The 100 Role-Player Game</h3>
       <br />
-          <img src="images/gif4.gif" width="100%" alt="The 100 Role-Player Game"/>
-      <br />
         <p align="center">
           <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
             <img src="/images/The100RPG.gif"/>
           </a>
+      </p>
+      <p align="center">
+          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+          </a>  
       </p>
         <p><span style="font-weight:bold;">Python</span> - Role-player game set in the world of the TV show "The 100." This is a passion project and the first big coding project I ever started. It is still in development so it is not hosted anywhere, but for now you can clone the repository if you want to play it on your machine!</p>
     </td>
@@ -83,11 +86,13 @@
         <br />
           <img src="/images/Spellweaver.gif" width="100%" alt="Spellweaver"/>
         <br />
+        <br />
+        <br />
         <p align="center">
-          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
-            <img src=""/>
+          <a href="https://github.com/raisa-d/Spellweaver" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
-      </p>
+        </p>
         <p><span style="font-weight:bold;">JavaScript, HTML5, CSS3, Git, Figma</span> - Web Application with RESTful API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
     </td>
   </tr>
@@ -119,9 +124,6 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raisa-d&show_icons=true&locale=en&layout=donut&theme=material-palenight" alt="raisa-d" />
-</p>
 <p align="center">
   <a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)"><img src="https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" alt="Raisa's GitHub Streak" /></a>
 </p>
