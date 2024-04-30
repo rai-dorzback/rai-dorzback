@@ -25,6 +25,74 @@
 - 😄 Pronouns: she/they
 - 🐱 Fun fact: I have the cutest cat in the world :)
 
+<h2 align="center">Projects</h2>
+<table bordercolor="#7b31c4">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Blackout Poetry Studio</h3>
+        <br />
+        <a target="_blank" href="https://blackout-poetry.netlify.app/">
+            <img src="/images/blackoutPoetry.gif" width="100%" alt="Blackout Poetry Studio"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/raisa-d/BlackoutPoetryStudio" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://blackout-poetry.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=LIVE%20SITE&color=743387&style=for-the-badge"/>
+          </a>
+      </p>
+        <p><span style="font-weight:bold;">JavaScript, CSS3, HTML5, Git, Figma</span> - Web Application with RESTful API Integration that allows users to build blackout poems, a type of found poetry using pre-existing poems. Blackout Poetry Studio inspires poets and helps get the ball rolling when you get writers' block!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">DrinkDex</h3>
+        <br />
+      <a target="_blank" href="https://drink-dex.netlify.app/">
+            <img src="/images/drinkDex.gif" width="100%"  alt="DrinkDex"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/raisa-d/DrinkDex" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://drink-dex.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=LIVE%20SITE&color=743387&style=for-the-badge"/>
+          </a>
+      </p>
+        <p><span style="font-weight:bold;">JavaScript, HTML, CSS, Git</span> - Web Application with RESTful API Integration. DrinkDex is your go-to cocktail companion, allowing you to effortlessly search for any cocktail, providing detailed recipes, ingredients, & visuals!</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">The 100 Role-Player Game</h3>
+      <br />
+          <img src="images/gif4.gif" width="100%" alt="The 100 Role-Player Game"/>
+      <br />
+        <p align="center">
+          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
+            <img src="/images/The100RPG.gif"/>
+          </a>
+      </p>
+        <p><span style="font-weight:bold;">Python</span> - Role-player game set in the world of the TV show "The 100." This is a passion project and the first big coding project I ever started. It is still in development so it is not hosted anywhere, but for now you can clone the repository if you want to play it on your machine!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Spellweaver</h3>
+        <br />
+          <img src="/images/Spellweaver.gif" width="100%" alt="Spellweaver"/>
+        <br />
+        <p align="center">
+          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
+            <img src=""/>
+          </a>  
+      </p>
+        <p><span style="font-weight:bold;">JavaScript, HTML5, CSS3, Git, Figma</span> - Web Application with RESTful API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
