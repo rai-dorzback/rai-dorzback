@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D)"><img src="https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" alt="Raisa's GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" alt="Raisa's GitHub Streak" /></a>
 </p>
 
 <h3 align="center">Connect</h3>
