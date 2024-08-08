@@ -1,10 +1,8 @@
 <p align="center">
   <a target="_blank" href="https://raisadorzback.netlify.app/">
-  <img height="200" alt="Raisa Dorzback Software Engineer Logo with Mermaid" src="https://raisadorzback.netlify.app/images/logo/logo-white-transparent.png">  
+  <img height="200" alt="Raisa Dorzback Software Engineer" src="https://github.com/user-attachments/assets/ceeda4fc-a05a-4113-95aa-84f62396293a">  
   </a>
 </p>
-<h1 align="center">👋 Hi, I’m Raisa!</h1>
-
 <p align="center"> 
   <a href="https://raisadorzback.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
@@ -114,10 +112,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-</p>
-
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"><img src="https://github-readme-streak-stats.herokuapp.com?user=raisa-d&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D" alt="Raisa's GitHub Streak" /></a>
+  <a href="https://wordpress.com/">
+    <img src="https://img.shields.io/badge/WordPress-2a799d?style=for-the-badge" alt="WordPerss">
+  </a>
 </p>
 
 <h3 align="center">Connect</h3>
