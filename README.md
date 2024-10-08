@@ -51,7 +51,7 @@
             <img src="https://img.shields.io/static/v1?label=&message=LIVE%20SITE&color=743387&style=for-the-badge"/>
           </a>
       </p>
-        <p><strong>JavaScript, HTML, CSS, Git</strong> - Web Application with API Integration. DrinkDex is your go-to cocktail companion, allowing you to effortlessly search for any cocktail, providing detailed recipes, ingredients, & visuals!</p>
+        <p><strong>JavaScript, HTML, CSS, Git</strong> - Web Application with RESTful API Integration. DrinkDex is your go-to cocktail companion, allowing you to effortlessly search for any cocktail, providing detailed recipes, ingredients, & visuals!</p>
     </td>
   </tr>
   
@@ -83,7 +83,7 @@
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
         </p>
-        <p><strong>JavaScript, HTML5, CSS3, Git, Figma</strong> - Web Application with API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
+        <p><strong>JavaScript, HTML5, CSS3, Git, Figma</strong> - Web Application with RESTful API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
     </td>
   </tr>
 </table>
