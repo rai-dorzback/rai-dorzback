@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://raisadorzback.netlify.app/">
-  <img height="200" alt="Raisa Dorzback Software Engineer" src="https://github.com/user-attachments/assets/ceeda4fc-a05a-4113-95aa-84f62396293a">  
+  <img height="150" alt="Raisa Dorzback Software Engineer" src="https://github.com/user-attachments/assets/ceeda4fc-a05a-4113-95aa-84f62396293a">  
   </a>
 </p>
 <p align="center"> 
@@ -96,6 +96,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
+</a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
