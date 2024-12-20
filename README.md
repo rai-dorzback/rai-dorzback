@@ -57,6 +57,34 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Flow State Kanban Board</h3>
+      <br />
+        <p align="center">
+        <img src="https://raisadorzback.netlify.app/images/flow-state.png"/>
+      </p>
+      <p align="center">
+          <a href="https://github.com/raisa-d/Flow-State-Kanban" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+          </a>  
+      </p>
+        <p><strong>JavaScript, MongoDB, Node.js, Express.js, React.js, TailwindCSS</strong> - Dynamic task management web app built with full CRUD functionality. Designed to streamline workflows with drag-and-drop capabilities, customizable boards, and intuitive task organization. Users can create, update, read, and delete tasks, making it a powerful tool for team productivity and personal organization.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Spellweaver</h3>
+        <br />
+          <img src="/images/Spellweaver.gif" width="100%" alt="Spellweaver"/>
+        <br />
+        <br />
+        <p align="center">
+          <a href="https://github.com/raisa-d/Spellweaver" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+          </a>  
+        </p>
+        <p><strong>JavaScript, HTML5, CSS3, Git, Figma</strong> - Web Application with RESTful API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">The 100 Role-Player Game</h3>
       <br />
         <p align="center">
@@ -70,22 +98,7 @@
           </a>  
       </p>
         <p><strong>Python</strong> - Role-player game set in the world of the TV show "The 100." This is a passion project and the first big coding project I ever started. It is still in development so it is not hosted anywhere, but for now you can clone the repository if you want to play it on your machine!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Spellweaver</h3>
-        <br />
-          <img src="/images/Spellweaver.gif" width="100%" alt="Spellweaver"/>
-        <br />
-        <br />
-        <br />
-        <p align="center">
-          <a href="https://github.com/raisa-d/Spellweaver" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
-          </a>  
-        </p>
-        <p><strong>JavaScript, HTML5, CSS3, Git, Figma</strong> - Web Application with RESTful API Integration to help Dungeons & Dragons players and Dungeon Masters organize and manage characters' spells! This app is currently under development. A live link will be available in the coming weeks. For now there is a video demo in the repository!</p>
-    </td>
-  </tr>
+    </td></tr>
 </table>
 
 <h3 align="center">Languages and Tools:</h3>
