@@ -60,7 +60,7 @@
       <h3 align="center">Flow State Kanban Board</h3>
       <br />
         <p align="center">
-        <img src="https://raisadorzback.netlify.app/images/flow-state.png"/>
+        <img src="https://github.com/raisa-d/Flow-State-Kanban/blob/main/Flow%20State%20Desktop.png"/>
       </p>
       <p align="center">
           <a href="https://github.com/raisa-d/Flow-State-Kanban" target="_blank">
