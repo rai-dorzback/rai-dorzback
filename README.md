@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/raisa-d/">
     <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
   </a>
-  <a href="https://twitter.com/rai__bread" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
+  <a href="https://bsky.app/profile/rai-bread.bsky.social" target="blank">
+    <img src="https://img.shields.io/badge/Bluesky-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
   </a> 
 </p>
 
@@ -124,6 +124,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/> 
+</a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
@@ -139,14 +142,14 @@
 </p>
 
 <h3 align="center">Connect</h3>
-<p align="center">
+<p align="center"> 
   <a href="https://raisadorzback.netlify.app/" target="blank">
-      <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
-    </a>
-    <a href="https://www.linkedin.com/in/raisa-d/">
-      <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
-    </a>
-    <a href="https://twitter.com/rai__bread" target="blank">
-      <img src="https://img.shields.io/badge/Twitter-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
+    <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/raisa-d/">
+    <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="https://bsky.app/profile/rai-bread.bsky.social" target="blank">
+    <img src="https://img.shields.io/badge/Bluesky-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
   </a> 
 </p>
