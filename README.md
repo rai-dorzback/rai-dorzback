@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://raisadorzback.netlify.app/">
-  <img height="150" alt="Raisa Dorzback Software Engineer" src="https://github.com/user-attachments/assets/ceeda4fc-a05a-4113-95aa-84f62396293a">  
+  <img height="50" alt="Rai Dorzback Software Engineer" src="https://github.com/user-attachments/assets/57892054-027f-46ab-9305-0e93606841e0">  
   </a>
 </p>
 <p align="center"> 
