@@ -1,10 +1,10 @@
 <p align="center">
-  <a target="_blank" href="https://raisadorzback.netlify.app/">
+  <a target="_blank" href="https://rai-dorzback.netlify.app/">
   <img height="50" alt="Rai Dorzback Software Engineer" src="https://github.com/user-attachments/assets/57892054-027f-46ab-9305-0e93606841e0">  
   </a>
 </p>
 <p align="center"> 
-  <a href="https://raisadorzback.netlify.app/" target="blank">
+  <a href="https://rai-dorzback.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/raisa-d/">
@@ -143,7 +143,7 @@
 
 <h3 align="center">Connect</h3>
 <p align="center"> 
-  <a href="https://raisadorzback.netlify.app/" target="blank">
+  <a href="https://rai-dorzback.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/raisa-d/">
