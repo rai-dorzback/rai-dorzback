@@ -13,6 +13,9 @@
   <a href="https://bsky.app/profile/rai-bread.bsky.social" target="blank">
     <img src="https://img.shields.io/badge/Bluesky-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
   </a> 
+  <a href="https://linktr.ee/rai.dorzback">
+    <img src="https://img.shields.io/badge/Linktree-046E6D?logo=linkedin&style=for-the-badge">
+  </a>
 </p>
 
 <h2 align="center">Projects</h2>
@@ -27,7 +30,7 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/raisa-d/BlackoutPoetryStudio" target="_blank">
+          <a href="https://github.com/rai-dorzback/BlackoutPoetryStudio" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
           <a href="https://blackout-poetry.netlify.app/" target="_blank">
@@ -44,7 +47,7 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/raisa-d/DrinkDex" target="_blank">
+          <a href="https://github.com/rai-dorzback/DrinkDex" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
           <a href="https://drink-dex.netlify.app/" target="_blank">
@@ -60,10 +63,10 @@
       <h3 align="center">Flow State Kanban Board</h3>
       <br />
         <p align="center">
-        <img src="https://github.com/raisa-d/Flow-State-Kanban/blob/main/Flow%20State%20Desktop.png"/>
+        <img src="https://github.com/rai-dorzback/Flow-State-Kanban/blob/main/Flow%20State%20Desktop.png"/>
       </p>
       <p align="center">
-          <a href="https://github.com/raisa-d/Flow-State-Kanban" target="_blank">
+          <a href="https://github.com/rai-dorzback/Flow-State-Kanban" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
       </p>
@@ -76,7 +79,7 @@
         <br />
         <br />
         <p align="center">
-          <a href="https://github.com/raisa-d/Spellweaver" target="_blank">
+          <a href="https://github.com/rai-dorzback/Spellweaver" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
         </p>
@@ -88,12 +91,12 @@
       <h3 align="center">The 100 Role-Player Game</h3>
       <br />
         <p align="center">
-          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
+          <a href="https://github.com/rai-dorzback/the-100-rpg" target="_blank">
             <img src="/images/The100RPG.gif"/>
           </a>
       </p>
       <p align="center">
-          <a href="https://github.com/raisa-d/the-100-rpg" target="_blank">
+          <a href="https://github.com/rai-dorzback/the-100-rpg" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
           </a>  
       </p>
@@ -152,4 +155,7 @@
   <a href="https://bsky.app/profile/rai-bread.bsky.social" target="blank">
     <img src="https://img.shields.io/badge/Bluesky-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
   </a> 
+  <a href="https://linktr.ee/rai.dorzback">
+    <img src="https://img.shields.io/badge/Linktree-046E6D?logo=linkedin&style=for-the-badge">
+  </a>
 </p>
